@@ -1,2 +1,9 @@
 # cpp-course
-Project based on c++ course in university
+`Project based on c++ course at university`
+
+## 1. Рандомизированная очередь
+Проект - реализачия контейнера-очереди, который для каждого итератора при проходе выдает разную последовательность элементов.  
+
+[__Реализация очереди__](randomized_queue/randomized_queue.h)
+
+## 2. 
